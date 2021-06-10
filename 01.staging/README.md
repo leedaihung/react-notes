@@ -22,7 +22,7 @@ npm install -g create-reat-app
 
 使用`sudo`切换到管理员身份后安装可以解决全局安装到权限问题
 
-![install-create-react-app-success](https://github.com/leedaihung/react-notes/blob/main/01.staging/screen-capture/screan-capture/02.install-create-react-app-success.png)
+![install-create-react-app-success](https://github.com/leedaihung/react-notes/blob/main/01.staging/screen-capture/02.install-create-react-app-success.png)
 
 ## 创建项目
 
@@ -38,11 +38,11 @@ create-reat-app hello-world
 
 等待脚手架创建项目文件和依赖包
 
-![create-react-app](https://github.com/leedaihung/react-notes/blob/main/01.staging/screen-capture/screen-capture/03.create-react-app.png)
+![create-react-app](https://github.com/leedaihung/react-notes/blob/main/01.staging/screen-capture/03.create-react-app.png)
 
 创建成功后会提示一些相关的npm指令，如果有安装yarn，即提示yarn相关的指令
 
-![create-react-app-success](https://github.com/leedaihung/react-notes/blob/main/01.staging/screen-capture/screen-capture/04.create-react-app-success.png)
+![create-react-app-success](https://github.com/leedaihung/react-notes/blob/main/01.staging/screen-capture/04.create-react-app-success.png)
 
 ## npm / yarn 命令
 
@@ -74,11 +74,11 @@ cd hello-world
 npm start
 ```
 
-![npm-start-project](https://github.com/leedaihung/react-notes/blob/main/01.staging/screen-capture/screen-capture/05.npm-start-project.png)
+![npm-start-project](https://github.com/leedaihung/react-notes/blob/main/01.staging/screen-capture/05.npm-start-project.png)
 
 等待项目编译，编译成功并启动后会自动打开默认浏览器
 
-![sample-page](https://github.com/leedaihung/react-notes/blob/main/01.staging/screen-capture/screen-capture/06.sample-page.png)
+![sample-page](https://github.com/leedaihung/react-notes/blob/main/01.staging/screen-capture/06.sample-page.png)
 
 ## 项目结构
 
