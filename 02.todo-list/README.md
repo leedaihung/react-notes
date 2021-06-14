@@ -29,7 +29,7 @@ function App() {
 
 ```
 
-![hello-world-button](https://github.com/leedaihung/react-notes/blob/main/02.todo-list/screen-capture/00.hello-world-button.png)
+![hello-world-button](https://github.com/leedaihung/react-notes/blob/todo-list/02.todo-list/screen-capture/00.hello-world-button.png)
 
 ### 使用 `yarn add fontsource-roboto` 安装 Roboto 字体
 
@@ -71,4 +71,4 @@ function App() {
 ......
 ```
 
-![icon-sample](https://github.com/leedaihung/react-notes/blob/main/02.todo-list/screen-capture/01.icon-sample.png)
+![icon-sample](https://github.com/leedaihung/react-notes/blob/todo-list/02.todo-list/screen-capture/01.icon-sample.png)
